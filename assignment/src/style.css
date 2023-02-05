@@ -1,0 +1,13 @@
+.singlecomment-container {
+    border: 1px solid gray;
+    margin: auto;
+    margin-top: 10px;
+    width: 400px;
+
+}
+
+.singlecomment-container > div {
+    display: flex;
+    gap: 20px;
+}
+
